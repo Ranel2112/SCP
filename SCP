@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>https://www.SCP_fondation</title>
+</head>
+<body>
+	<h1>SCP</h1>
+	<img src="SCP.jpg" width="200px" height="200px">
+	<p>Здравствуйте USER! зарегестрируйтесь, пожалуйста!</p>
+	<input placeholder="имя"><br>
+	<a href="SCP0.html">Зарегестрировались? переходите сюда!</a>
+</body>
+</html>
